@@ -118,6 +118,9 @@ def main():
         writer.writerow(["Mô hình kinh doanh", "; ".join(business_models) if business_models else "Chưa rõ"])
         writer.writerow(["Email liên hệ", "; ".join(emails) if emails else "Không tìm thấy email"])
 
+        domains = {email.split('@')[1] for email in emails if '@' in email}
+        writer.writerow(["Tên miền công ty (từ email)", "; ".join(domains) if domains else "Không có tên miền"])
+
     print(f"✅ Đã lưu file tổng hợp: {summary_file}")
 
 if __name__ == "__main__":
