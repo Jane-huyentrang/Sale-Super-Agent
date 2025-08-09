@@ -1,0 +1,39 @@
+{
+    "thong_tin_co_ban": {
+        "ten_giam_doc": [
+            "Thông tin này không công khai"
+        ],
+        "dia_chi": [
+            "Thông tin này không công khai"
+        ],
+        "mo_hinh_kd": [
+            "Phát triển phần mềm, tư vấn công nghệ thông tin, giải pháp công nghệ"
+        ],
+        "email": [
+            "Thông tin này không công khai"
+        ],
+        "ten_mien": [
+            "Không có thông tin công khai"
+        ],
+        "doi_tac_khach_hang": [
+            "Thông tin này không công khai - Do tính chất bảo mật thông tin khách hàng."
+        ]
+    },
+    "phan_tich_xu_huong": {
+        "diem_tich_cuc": [
+            "Nếu Atomrock hoạt động trong lĩnh vực công nghệ thông tin, tiềm năng tăng trưởng là rất lớn do nhu cầu về chuyển đổi số ngày càng cao.",
+            "Thiếu thông tin cụ thể về Atomrock, không thể đánh giá được điểm tích cực."
+        ],
+        "thach_thuc_diem_tieu_cuc": [
+            "Cạnh tranh khốc liệt trong ngành công nghệ thông tin.",
+            "Khả năng thu hút và giữ chân nhân tài chất lượng cao.",
+            "Thiếu thông tin công khai về công ty, gây khó khăn trong việc đánh giá."
+        ],
+        "ke_hoach_tuong_lai": [
+            "Không có thông tin công khai về kế hoạch tương lai của Atomrock."
+        ],
+        "tom_tat_xu_huong": "Do thiếu thông tin công khai, không thể đưa ra đánh giá tổng quan về quỹ đạo phát triển của Atomrock.  Cần thêm thông tin để có phân tích chính xác hơn."
+    },
+    "ten_cong_ty_query": "Atomrock",
+    "thoi_gian_quet": "2025-08-10 02:37:44"
+}
